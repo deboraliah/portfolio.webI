@@ -51,7 +51,7 @@ portfolio/
 
 ## 🚀 Como visualizar
 Acesse a página pelo GitHub Pages:  
-👉 Adicione aqui o link do seu GitHub Pages
+👉  https://deboraliah.github.io/portfolio.webI/
 
 ---
 
