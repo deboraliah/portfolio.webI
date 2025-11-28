@@ -1,4 +1,4 @@
-[16:24, 11/28/2025] debora liah: 🌸 Portfólio Pessoal
+🌸 Portfólio Pessoal
 
 Bem-vindo(a) ao meu portfólio!
 Este projeto foi desenvolvido para apresentar quem eu sou, meus projetos, minhas habilidades e uma forma de entrar em contato comigo.
